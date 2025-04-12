@@ -5,8 +5,9 @@
 
 !-->
 <p align="center">
-  <img style="width: 2 rem, height:2" src="https://cdn.wallpapersafari.com/48/77/l2ptOv.jpg"/>
+  <img width="200" height="200" src="https://cdn.wallpapersafari.com/48/77/l2ptOv.jpg" alt="Imagen modificada"/>
 </p>
+
 
 <p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
