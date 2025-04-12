@@ -18,12 +18,10 @@
 cpp  
                                     void life(void)
                                     {
-                                      printf("Hi 👋, I'm Dipankar \n");
-                                      printf("A passionate kernel hacker from India \n");
-                                      char currentlyLearning[] = "openWRT";
+                                      printf("Hi 👋, I'm B0T3RO \n");
+                                      printf("A passionate kernel hacker from colombia \n");
                                       char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "d.pal5050@gmail.com";
-                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                      char ReachMeAt[] = "samuelbotero24842.com";
                                     }
 
 
@@ -64,7 +62,11 @@ cpp
 <a href="https://instagram.com/dipankarpal5050/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dipankarpal5050" height="20" width="20" /></a>
 <a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
 </p>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 -----
 Credits: [Dipankar Pal](https://github.com/deep5050)
 
