@@ -5,7 +5,7 @@
 
 !-->
 <p align="center">
-  <img width="3000" height="480" src="https://cdn.wallpapersafari.com/48/77/l2ptOv.jpg" alt="Imagen modificada"/>
+  <img width="3000" height="520" src="https://cdn.wallpapersafari.com/48/77/l2ptOv.jpg" alt="Imagen modificada"/>
 </p>
 
 <p align=center><a href="blob:https://web.whatsapp.com/3994aff2-86c8-4ace-a4ef-d268644cef40"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
@@ -63,7 +63,7 @@ cpp
 <a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
 </p>
 <!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
