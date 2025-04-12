@@ -21,7 +21,7 @@
     user = 'B0T3RO-24842'
 	current_edu = "ADSO"
     currently_learning = "Javascript"
-    fun_fact = "I hate Mondongo and Higado"
+    fun_fact = "I hate Mondongo"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -112,6 +112,12 @@ cpp
  <a href="https://qdran.io" target="_blank">
   <img src="https://img.shields.io/badge/qdran-4B0082.svg?style=for-the-badge" alt="qdran" />
 </a>
+<a href="https://www.php.net" target="_blank">
+  <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</a>	
 </p>
 
  
