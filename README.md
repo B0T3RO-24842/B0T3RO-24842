@@ -24,17 +24,16 @@
     fun_fact = "I hate Mondongo"
 	hobbies = [
 				'Music',
-                         'Chilling',
+                'Chilling',
 			 	'Gaming',
 				'Horror Movies'
-			]
-	
+			]	
 	def getCity():
-		return Chhattisgarh_Colombia()
+		return Chhattisgarh_Colombia();
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+		BecomeSoftwareEngineer(),
+		FinishMyProjects();
 	
  ```
 
@@ -51,7 +50,7 @@ cpp
                                       printf("Hi 👋, I'm B0T3RO \n");
                                       printf("A passionate kernel hacker from colombia \n");
                                       char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "samuelbotero24842.com";
+                                      char ReachMeAt[] = "samuelxxxxxxxxx@gmail.com";
                                     }
 
 
